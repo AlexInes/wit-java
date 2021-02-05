@@ -1,0 +1,8 @@
+Numbers: 4, 9
+Addition result: 13
+Multiplication result: 36
+Logical Left Shift result: 2048
+Square root result: 2.0
+Square power result: 
+	Power of 4 is 16
+	Power of 9 is 81
